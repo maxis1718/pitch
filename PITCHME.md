@@ -6,7 +6,7 @@ Discover Weekly
 
 ---
 
-<img src="./assets/md/assets/discover-weekly.png" width="80%" />
+<img src="discover-weekly.png" width="80%" />
 
 ---
 
