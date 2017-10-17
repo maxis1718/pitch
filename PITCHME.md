@@ -44,13 +44,9 @@ _"It's scary how well Spotify Discover Weekly playlists know me."_ <br /> @Dave_
 
 ### 3 Types of Recommendation Models
 
-+++
-
-### 3 Types of Recommendation Models
-
-1. _Collaborative Filtering_
-2. _Natural Language Processing_ (NLP)
-3. _Audio_ models
+- _Collaborative Filtering_ |
+- _Natural Language Processing (NLP)_  |
+- _Audio_ |
 
 ---
 
