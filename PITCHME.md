@@ -1,29 +1,27 @@
 <!-- $theme: default -->
 
-## <span style="color: #1ec15e">Spotify</span>
-### Discover Weekly
+### <span style="color: #1ec15e">Spotify</span>
+#### Discover Weekly
 
-###### Maxis / Oct. 18
+Maxis / Oct. 18
 
 <img src="discover-weekly.png" width="80%" />
 
 ---
 
-## What is it?
+### What is it?
 
-##### - Monday
+- Monday
 
-##### - 30 songs
+- 30 songs
 
-##### - Personalized music
+- Personalized music
 
-##### - 電腦選的
-
-![](https://i.ytimg.com/vi/-W3pnicVgn0/hqdefault.jpg)
+- 電腦選的
 
 ---
 
-## People say
+### People says
 
 
 > It knows my musical tastes better than any person in my life ever has, and I am consistently delighted by how it satisfies me just right every week - Sophia Ciocca
@@ -32,7 +30,7 @@
 
 ---
 
-## Music curation
+### Music curation
 
 
 ##### Songza / 2000s
