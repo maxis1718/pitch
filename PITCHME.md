@@ -1,7 +1,7 @@
 <!-- $theme: default -->
 
-Spotify Discover Weekly
-===
+## <span style="color: #1ec15e">Spotify</span>
+### Discover Weekly
 
 ###### Maxis / Oct. 18
 
