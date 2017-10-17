@@ -72,7 +72,7 @@ uses **stars** to identify similar **users**
 
 +++
 
-##### how it works?
+#### how it works?
 
 +++
 
@@ -93,7 +93,7 @@ Freda: -, B, -
 
 **Goal**
 
-<small>Find the most similar user and recommend the missing one</small>
+<small>Find the most similar user and recommend the missing song</small>
 
 ```
   Ian: A, B, - <-- maybe Ian will like song C
