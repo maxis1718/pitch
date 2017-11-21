@@ -8,14 +8,9 @@ Maxis / Nov. 22
 
 ### What is Now?
 
-<quote style="font-size: 24px; text-align: left;">
-Now allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud
-</quote>
+- Now allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud.
 
-
-<quote style="font-size: 24px; text-align: left;">
-any directory that contains a `package.json` or `Dockerfile` can be transported to the cloud with one command: `now`.
-</quote>
+- Any directory that contains a <span style="color: #1ec15e">package.json</span> or <span style="color: #1ec15e">Dockerfile</span> can be transported to the cloud with one command: <span style="color: #1ec15e">now</span>.
 
 ---
 
@@ -62,3 +57,19 @@ https://hello-next-hcegtfqzka.now.sh/_src
 <https://secure-atoll-72955.herokuapp.com/>
 
 <https://hello-next-hcegtfqzka.now.sh/>
+
+---
+
+micro-services with now.sh
+
+<pre>
+{
+  "rules": [
+    { "pathname": "/api/*", "dest": "comp-test-api.now.sh" },
+    { "pathname": "/**", "dest": "comp-test-frontend.now.sh" },
+    { "dest": "www.comp-test.now.sh" }
+  ]
+}
+</pre>
+
+https://medium.com/@littleStudent/cors-and-micro-services-with-now-sh-a805708a4e93
