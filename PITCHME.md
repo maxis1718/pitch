@@ -72,4 +72,6 @@ micro-services with now.sh
 }
 </pre>
 
-https://medium.com/@littleStudent/cors-and-micro-services-with-now-sh-a805708a4e93
+<small>
+reference: <a>https://medium.com/@littleStudent/cors-and-micro-services-with-now-sh-a805708a4e93</a>
+</small>
