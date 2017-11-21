@@ -8,13 +8,18 @@ Maxis / Nov. 22
 
 ### What is Now?
 
-> Now allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud
+<quote style="font-size: 24px; text-align: left;">
+Now allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud
+</quote>
 
-> any directory that contains a `package.json` or `Dockerfile` can be transported to the cloud with one command: `now`.
+
+<quote style="font-size: 24px; text-align: left;">
+any directory that contains a `package.json` or `Dockerfile` can be transported to the cloud with one command: `now`.
+</quote>
 
 ---
 
-Features
+### Features
 
 - Easy
 - Unlimited
@@ -23,14 +28,14 @@ Features
 
 +++
 
-Scaling
+### Scaling
 
 - Dynamic
 - Multi-cloud
 
 +++
 
-Why not AWS Lambda / Azure Functions / Google Cloud Functions?
+### Why not AWS Lambda / Azure Functions / Google Cloud Functions?
 
 - Exposing Just a Function Is Not Enough (?)
 - ad-hoc response codec
@@ -42,6 +47,7 @@ Why not AWS Lambda / Azure Functions / Google Cloud Functions?
 
 https://hello-next-hcegtfqzka.now.sh/_src
 
+---
 
 ### Now vs Heroku
 
@@ -50,6 +56,8 @@ https://hello-next-hcegtfqzka.now.sh/_src
 | setup | `npm install` | `heroku cli` (`npm`) |
 | deployment speed | 1:50.70 | 39.46 |
 | localhost? | yes | no |
+
+---
 
 <https://secure-atoll-72955.herokuapp.com/>
 
