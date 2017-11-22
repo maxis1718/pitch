@@ -19,18 +19,75 @@ Maxis / Nov. 22
 - Easy
 - Unlimited
 - Realtime
+- Scaling
 - View Source
 
 +++
 
-### Scaling
+### Features
 
-- Dynamic
-- Multi-cloud
+- Easy
+
+<pre>
+> no need to install git
+> no need to setup tokens
+> no cloud provider setup
+</pre>
+
+- Unlimited
+- Realtime
+- Scaling
+- View Source
 
 +++
 
-### Why not AWS Lambda / Azure Functions / Google Cloud Functions?
+### Features
+
+- Easy
+- Unlimited
+
+<pre>
+> No need to remove old ones
+> URLs stay around forever
+</pre>
+
+- Realtime
+- Scaling
+- View Source
+
++++
+
+### Features
+
+- Easy
+- Unlimited
+- Realtime
+
+<pre>
+> console in browser
+</pre>
+
+- Scaling
+- View Source
+
++++
+### Features
+
+- Easy
+- Unlimited
+- Realtime
+- Scaling
+
+<pre>
+> Dynamic
+> Multi-cloud
+</pre>
+
+- View Source
+
++++
+
+#### Why not AWS Lambda / Azure Functions / Google Cloud Functions?
 
 - Exposing Just a Function Is Not Enough (?)
 - ad-hoc response codec
