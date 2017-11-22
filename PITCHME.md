@@ -27,13 +27,9 @@ Maxis / Nov. 22
 ### Features
 
 - Easy
-
-<pre>
-> no need to install git
-> no need to setup tokens
-> no cloud provider setup
-</pre>
-
+  - no need to install git
+  - no need to setup tokens
+  - no cloud provider setup
 - Unlimited
 - Realtime
 - Scaling
@@ -45,12 +41,8 @@ Maxis / Nov. 22
 
 - Easy
 - Unlimited
-
-<pre>
-> No need to remove old ones
-> URLs stay around forever
-</pre>
-
+  - No need to remove old ones
+  - URLs stay around forever
 - Realtime
 - Scaling
 - View Source
@@ -62,11 +54,7 @@ Maxis / Nov. 22
 - Easy
 - Unlimited
 - Realtime
-
-<pre>
-> console in browser
-</pre>
-
+  - console in browser
 - Scaling
 - View Source
 
@@ -77,12 +65,8 @@ Maxis / Nov. 22
 - Unlimited
 - Realtime
 - Scaling
-
-<pre>
-> Dynamic
-> Multi-cloud
-</pre>
-
+  - Dynamic
+  - Multi-cloud
 - View Source
 
 +++
